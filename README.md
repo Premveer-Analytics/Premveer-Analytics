@@ -55,9 +55,7 @@ Explore more about my work: [GitHub Profile](https://github.com/premveer7) | [Li
 | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white) |
 
 ## 🚀 Notable Projects
-- **[Rise Of Quick Comemerce In India : A Case Study](https://github.com/premveer7/):** An app that helps you stay hydrated with personalized reminders and easy tracking.
-- **[DigiMag](https://github.com/riyanachwani/DigiMag):** A dynamic Flutter-based digital magazine platform that integrates APIs for an enhanced user experience.
-- **[LeaveCare](https://github.com/riyanachwani/LeaveCare):** A comprehensive Flutter-based system for managing employee leave requests and real-time balance tracking.
+- **[Rise Of Quick Comemerce In India : A Case Study](https://github.com/premveer7/):** Analyzed quick commerce operations to improve delivery efficiency and optimize customer order patterns for business growth.
 - **[WattWise](https://github.com/WattWiseSolutions/WattWise):** A Java application providing precise estimates of energy consumption and monthly bills.
 - **[Resume Builder](https://github.com/riyanachwani/ResumeBuilder):** A tool for creating professional resumes using Java, aimed at streamlining the resume-building process.
 
