@@ -47,8 +47,7 @@ Explore more about my work: [GitHub Profile](https://github.com/premveer7) | [Li
 
 ## 🚀 Notable Projects
 - **[Rise Of Quick Comemerce In India : A Case Study](https://github.com/premveer7/QCommerce-India-Case-Study):** Analyzed quick commerce operations to improve delivery efficiency and optimize customer order patterns for business growth.
-- **[WattWise](https://github.com/WattWiseSolutions/WattWise):** A Java application providing precise estimates of energy consumption and monthly bills and used SQL to optimize data accessibility, reporting speed, and cost estimation.
-- 
+- **[WattWise](https://github.com/premveer7/WattWise):** A Java application providing precise estimates of energy consumption and monthly bills and used SQL to optimize data accessibility, reporting speed, and cost estimation.
 ## 💼 Work Experience
 - *Data Analyst* as a Freelancer (Jun 2025 – Present)
   - Partnered with small businesses to create insightful dashboards and automate reporting tasks.
