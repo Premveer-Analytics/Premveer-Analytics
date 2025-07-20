@@ -46,7 +46,7 @@ Explore more about my work: [GitHub Profile](https://github.com/premveer7) | [Li
 | ![CSV](https://img.shields.io/badge/CSV-0052CC?style=for-the-badge&logo=csv&logoColor=white) | ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![XML](https://img.shields.io/badge/XML-0076A8?style=for-the-badge&logo=xml&logoColor=white) |
 
 ## 🚀 Notable Projects
-- **[Rise Of Quick Comemerce In India : A Case Study](https://github.com/premveer7/):** Analyzed quick commerce operations to improve delivery efficiency and optimize customer order patterns for business growth.
+- **[Rise Of Quick Comemerce In India : A Case Study](https://github.com/premveer7/QCommerce-India-Case-Study):** Analyzed quick commerce operations to improve delivery efficiency and optimize customer order patterns for business growth.
 - **[WattWise](https://github.com/WattWiseSolutions/WattWise):** A Java application providing precise estimates of energy consumption and monthly bills and used SQL to optimize data accessibility, reporting speed, and cost estimation.
 - 
 ## 💼 Work Experience
