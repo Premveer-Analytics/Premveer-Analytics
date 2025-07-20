@@ -1,55 +1,75 @@
 👋🏻 Hello!
-I'm Premveer Yadav, a data analyst from India with a passion for turning raw data into meaningful insights. I love solving business problems with data-driven solutions and continuously learning new analytical tools and techniques.
+I'm Premveer Yadav, a results-driven Data Analyst from India passionate about transforming complex datasets into actionable business insights.
+I specialize in SQL, Power BI, Excel, Python (Pandas, NumPy) — building dashboards, automating reports, and delivering data-backed solutions that drive growth.
 
-I specialize in SQL, Excel, Power BI, and Python (Pandas, NumPy) — creating interactive dashboards, cleaning messy datasets, and uncovering actionable insights.
+🚀 Currently open to opportunities in Data Analytics, Business Intelligence, or Freelance Analysis Projects.
 
-🌟 I am open to full-time or freelance opportunities in Data Analytics, Business Analytics, and related roles.
+📧 Reach me at: premveer770@gmail.com
+🌐 Connect on LinkedIn | Check my work on GitHub
 
-For any collaboration or inquiry, feel free to reach out:
+🛠 Skills & Tools
+SQL	Python (Pandas, NumPy, Matplotlib)	Power BI	Excel (Advanced)	Power Query
+Data Cleaning	Data Visualization	Dashboarding	Business Insights	Report Automation
 
-Explore more: GitHub Profile | LinkedIn Profile
+Other Tools: Tableau, JupyterLab, GitHub, PostgreSQL, MySQL
 
-🛠 Skills & Technologies
-Data Analytics & Visualization
-Excel	Power BI	SQL	Python (Pandas, NumPy)	Power Query
-	
+🚀 Featured Projects
+📦 Q-Commerce India Case Study (July 2023 – Aug 2023)
+Delivered comprehensive data analysis on quick commerce operations, improving delivery efficiency by 15%.
 
-Data Cleaning & Analysis
-Pandas	NumPy	DAX	Data Visualization	Data Cleaning
+Analyzed customer order patterns and product performance to recommend data-driven strategies for boosting average order value and profit margins.
 
-Other Tools
-GitHub	Jupyter	PowerPoint	SQL Server
-	
+Provided actionable insights for business decision-making.
 
-🚀 Notable Projects
-Q-Commerce Data Analysis: An end-to-end data analysis project on quick commerce data — customer insights, delivery performance, inventory patterns, and business recommendations.
+⚡ WattWise — Energy Consumption & Cost Management (Aug 2023 – Nov 2023)
+Analyzed government open datasets on energy consumption using SQL for querying and aggregation.
 
-Sales Dashboard (Power BI): An interactive sales dashboard showcasing sales trends, KPIs, and regional performance.
+Improved data accessibility and analysis speed by 30% through efficient querying and integrated dashboard reporting.
 
-Customer Churn Analysis (Python & SQL): Identified key factors for customer churn using SQL queries and Python for visualization.
+Provided insights on energy consumption patterns and cost optimization.
 
-Data Cleaning with Power Query: Automated data cleaning processes in Excel using Power Query M language.
+📊 Freelance Dashboard Projects (Jun 2025 – Present)
+Delivered customized Excel dashboards for 3+ small businesses, reducing reporting time by 50%.
 
-💼 Work Experience
-Freelance Data Analyst (Jan 2025 – Present)
+Conducted market trend analysis, driving a 10–15% increase in targeted sales.
 
-Analyzed business data and delivered insights using SQL, Excel, and Power BI.
+Automated monthly reporting processes, saving 4–5 hours/week in manual work for clients.
 
-Built dashboards for clients across retail, logistics, and service sectors.
+💼 Professional Experience
+Freelance Data Analyst (Jun 2025 – Present)
+Helping small businesses with data insights, dashboard creation, and reporting automation.
 
-Automated data cleaning workflows with Power Query.
+Junior Data Analyst — Softwin Technologies (Jan 2025 – May 2025)
 
-Data Analyst Intern at XYZ Analytics (Sep 2024 – Dec 2024)
+Managed SQL databases ensuring data accuracy and reducing processing time by 20%.
 
-Assisted in data preparation and visualization for client reports.
+Automated data cleaning with Power Query, cutting manual effort by 30%.
 
-Wrote SQL queries for ad hoc analysis and automated reports.
+Designed Power BI dashboards to enhance data accessibility for stakeholders.
 
-💬 Let's Connect
+Data Analyst Intern — CodeClause (Oct 2024 – Dec 2024)
+
+Performed exploratory analysis on real-world datasets using Python & SQL.
+
+Improved report data extraction accuracy by 25% with optimized SQL queries.
+
+🎓 Education & Certifications
+MCA — Medicaps University (CGPA 8.92)
+
+B.Com (Computer Application) — Renaissance University (CGPA 8.68)
+
+Certifications:
+
+SQL for Data Analysis (Udemy)
+
+Microsoft Power BI Data Analyst (Microsoft Learn)
+
+🏸 Fun Fact
+National-level Badminton Player & Three-time State Champion — bringing the same discipline & competitive spirit to data analytics!
+
+💬 Let's Connect!
+Email: premveer770@gmail.com
+
 LinkedIn: Premveer Yadav
 
-Email: yourmail@example.com
-
-GitHub: yourgithub
-
-📊 “Data is the new oil — but only if refined.”
+GitHub: premveer7
