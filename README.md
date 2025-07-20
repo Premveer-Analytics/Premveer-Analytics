@@ -41,14 +41,9 @@ Explore more about my work: [GitHub Profile](https://github.com/premveer7) | [Li
 | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ### Data Formats
-| JSON | XML | CSV |
-|------|-----|-----|
-| ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) | ![XML](https://img.shields.io/badge/XML-0076A8?style=for-the-badge&logo=xml&logoColor=white) | ![CSV](https://img.shields.io/badge/CSV-0052CC?style=for-the-badge&logo=csv&logoColor=white) |
-
-### Platforms
-| Android | Linux | Ubuntu | Windows |
-|---------|--------|--------|---------|
-| ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white) |
+| CSV | JSON | Excel | XML |
+|-----|------|-------|-----|
+| ![CSV](https://img.shields.io/badge/CSV-0052CC?style=for-the-badge&logo=csv&logoColor=white) | ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![XML](https://img.shields.io/badge/XML-0076A8?style=for-the-badge&logo=xml&logoColor=white) |
 
 ## 🚀 Notable Projects
 - **[Rise Of Quick Comemerce In India : A Case Study](https://github.com/premveer7/):** Analyzed quick commerce operations to improve delivery efficiency and optimize customer order patterns for business growth.
