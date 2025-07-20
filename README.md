@@ -20,6 +20,10 @@ Explore more about my work: [GitHub Profile](https://github.com/premveer7) | [Li
 |-------|-----|----------|--------|
 | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
+| Pandas| NumPy| DAX| Data Visualization| Data Cleaning|
+| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white) | ![DAX](https://img.shields.io/badge/DAX-00BFFF?style=for-the-badge\&logo=dax\&logoColor=white) | ![Visualization](https://img.shields.io/badge/Data%20Visualization-FF6384?style=for-the-badge\&logo=chart.js\&logoColor=white) | ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6A1B9A?style=for-the-badge\&logo=data\&logoColor=white) |
+
 ### Frameworks & Libraries
 | Flutter | Firebase | Swing |
 |---------|----------|-------|
@@ -51,7 +55,7 @@ Explore more about my work: [GitHub Profile](https://github.com/premveer7) | [Li
 | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white) |
 
 ## 🚀 Notable Projects
-- **[AquaTrack](https://github.com/riyanachwani/Aqua-Track):** An app that helps you stay hydrated with personalized reminders and easy tracking.
+- **[Rise Of Quick Comemerce In India : A Case Study](https://github.com/premveer7/):** An app that helps you stay hydrated with personalized reminders and easy tracking.
 - **[DigiMag](https://github.com/riyanachwani/DigiMag):** A dynamic Flutter-based digital magazine platform that integrates APIs for an enhanced user experience.
 - **[LeaveCare](https://github.com/riyanachwani/LeaveCare):** A comprehensive Flutter-based system for managing employee leave requests and real-time balance tracking.
 - **[WattWise](https://github.com/WattWiseSolutions/WattWise):** A Java application providing precise estimates of energy consumption and monthly bills.
