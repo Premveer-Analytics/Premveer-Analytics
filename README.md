@@ -56,24 +56,23 @@ Explore more about my work: [GitHub Profile](https://github.com/premveer7) | [Li
 
 ## 🚀 Notable Projects
 - **[Rise Of Quick Comemerce In India : A Case Study](https://github.com/premveer7/):** Analyzed quick commerce operations to improve delivery efficiency and optimize customer order patterns for business growth.
-- **[WattWise](https://github.com/WattWiseSolutions/WattWise):** A Java application providing precise estimates of energy consumption and monthly bills.
-- **[Resume Builder](https://github.com/riyanachwani/ResumeBuilder):** A tool for creating professional resumes using Java, aimed at streamlining the resume-building process.
-
+- **[WattWise](https://github.com/WattWiseSolutions/WattWise):** A Java application providing precise estimates of energy consumption and monthly bills and used SQL to optimize data accessibility, reporting speed, and cost estimation.
+- 
 ## 💼 Work Experience
-- *Mobile Application Developer* as a Freelancer (Oct 2024 – Present)
-  - Developed mobile applications using Flutter and native Android (Java), focusing on UI/UX improvements, performance optimization, and integrating third-party APIs.
-  - Collaborated with clients to create customized app solutions tailored to their business needs.
+- *Data Analyst* as a Freelancer (Jun 2025 – Present)
+  - Partnered with small businesses to create insightful dashboards and automate reporting tasks.
+  - Helped clients uncover market trends and optimize performance through customized data solutions.
   
-- *Mobile Application Developer* at Orbol Group (May 2024 – Oct 2024)
-  - Developed and maintained native Android applications using Java and Flutter apps.
-  - Focused on bug fixes, implementing new features, and writing clean, maintainable code.
-  - Contributed to documentation and collaborated with cross-functional teams to improve app performance.
+- *Data Analyst Intern* at Softwin Technologies (Dec 2024 – May 2025)
+  - Collaborated with cross-functional teams to streamline data workflows and improve reporting accuracy.
+  - Developed interactive dashboards and automated data processes, enhancing business visibility and decision-making.
+  - Delivered actionable insights to stakeholders by transforming raw data into clear visual reports.
 
-- *Mobile Application Developer* at Softwin Technologies (Jan 2024 – May 2024)
-  - Assisted in native Android development using Java and Flutter app development.
-  - Optimized code for better efficiency and performance.
-  - Worked closely with senior developers to improve app functionality and user experience.
+- *Data Analyst Intern* at CodeClause (Seo 2024 – Nov 2024)
+  - Supported data exploration and cleaning tasks on real-world datasets for internal projects.
+  - ontributed to SQL query optimization and visualization efforts for improved data insights.
+  - Worked closely with senior developers to improve business insights and project outcomes.
 
 ## 💬 Let's Connect
-- *LinkedIn:* [Riya Nachwani](https://www.linkedin.com/in/riya-nachwani-91561b1a8/) - Let’s connect for professional opportunities and discussions.
-- *Email:* [riyanachwani22@gmail.com](mailto:riyanachwani22@gmail.com) - Reach out for detailed queries or collaboration.
+- *LinkedIn:* [Riya Nachwani](https://www.linkedin.com/in/premveer-yadav-01a808201/) - Let’s connect for professional opportunities and discussions.
+- *Email:* [premveer770@gmail.com](mailto:premveer770@gmail.com) - Reach out for detailed queries or collaboration.
