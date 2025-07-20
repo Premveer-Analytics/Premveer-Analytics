@@ -14,11 +14,10 @@ Explore more about my work: [GitHub Profile](https://github.com/premveer7) | [Li
 
 ## 🛠 Skills & Technologies
 
-### Data Analytics & Visualization
-
-| SQL | Power BI | Excel (Advanced) | Python |
-|-----|----------|-------------------|--------|
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+ ### Data Analysis & Business Intelligence Tools
+ Excel | Power BI | Tableau | Power Query | DAX |
+|-------|----------|---------|-------------|-----|
+| ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | ![Power Query](https://img.shields.io/badge/Power%20Query-107C41?style=for-the-badge&logo=microsoft&logoColor=white) | ![DAX](https://img.shields.io/badge/DAX-00BFFF?style=for-the-badge&logo=dax&logoColor=white) |
 
 
 | Excel | SQL | Power BI | Python |
