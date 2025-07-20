@@ -68,11 +68,14 @@ Explore more about my work: [GitHub Profile](https://github.com/premveer7) | [Li
   - Developed interactive dashboards and automated data processes, enhancing business visibility and decision-making.
   - Delivered actionable insights to stakeholders by transforming raw data into clear visual reports.
 
-- *Data Analyst Intern* at CodeClause (Seo 2024 – Nov 2024)
+- *Data Analyst Intern* at CodeClause (Sep 2024 – Nov 2024)
   - Supported data exploration and cleaning tasks on real-world datasets for internal projects.
   - ontributed to SQL query optimization and visualization efforts for improved data insights.
   - Worked closely with senior developers to improve business insights and project outcomes.
 
+## 🏅 Achievements
+- National-level Badminton Player & Three-time State Champion — bringing discipline and competitiveness to every project.
+
 ## 💬 Let's Connect
-- *LinkedIn:* [Riya Nachwani](https://www.linkedin.com/in/premveer-yadav-01a808201/) - Let’s connect for professional opportunities and discussions.
+- *LinkedIn:* [Premveer Yadav](https://www.linkedin.com/in/premveer-yadav-01a808201/) - Let’s connect for professional opportunities and discussions.
 - *Email:* [premveer770@gmail.com](mailto:premveer770@gmail.com) - Reach out for detailed queries or collaboration.
