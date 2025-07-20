@@ -19,34 +19,26 @@ Explore more about my work: [GitHub Profile](https://github.com/premveer7) | [Li
 |-------|----------|---------|-------------|-----|
 | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | ![Power Query](https://img.shields.io/badge/Power%20Query-107C41?style=for-the-badge&logo=microsoft&logoColor=white) | ![DAX](https://img.shields.io/badge/DAX-00BFFF?style=for-the-badge&logo=dax&logoColor=white) |
 
+### Programming & Data Analysis (Python)
+| Python | Pandas | NumPy |
+|--------|--------|-------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
 
-| Excel | SQL | Power BI | Python |
-|-------|-----|----------|--------|
-| ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
-| Pandas| NumPy| DAX| Data Visualization| Data Cleaning|
-| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white) | ![DAX](https://img.shields.io/badge/DAX-00BFFF?style=for-the-badge\&logo=dax\&logoColor=white) | ![Visualization](https://img.shields.io/badge/Data%20Visualization-FF6384?style=for-the-badge\&logo=chart.js\&logoColor=white) | ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6A1B9A?style=for-the-badge\&logo=data\&logoColor=white) |
+### Data Visualization & Storytelling
+| Power BI | Tableau | Matplotlib | Seaborn |
+|----------|---------|------------|---------|
+| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white) | ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=seaborn&logoColor=white) |
 
-### Frameworks & Libraries
-| Flutter | Firebase | Swing |
-|---------|----------|-------|
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Swing](https://img.shields.io/badge/Swing-6D6E71?style=for-the-badge&logo=java&logoColor=white) |
+###  Databases & SQL
+| SQL | MySQL | PostgreSQL | SQL Server |
+|-----|-------|------------|------------|
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
 
-### Databases
-| MySQL | MongoDB |
-|-------|---------|
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-
-### Development Tools
-| GitHub | Postman |
-|--------|---------|
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-
-### Web Technologies
-| HTML | CSS |
-|------|-----|
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+### Development Tools & Platforms
+| Jupyter Notebook | GitHub | VS Code |
+|------------------|--------|--------|
+| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ### Data Formats
 | JSON | XML | CSV |
