@@ -10,7 +10,7 @@ I’m actively working on a variety of projects to further develop my skills and
 For any inquiries or collaboration opportunities, feel free to contact me:
 [![Gmail Badge](https://img.shields.io/badge/-premveer770@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:premveer770@gmail.com)](mailto:premveer770@gmail.com)
 
-Explore more about my work: [GitHub Profile](https://github.com/premveer7) | [LinkedIn Profile](https://www.linkedin.com/in/premveer-yadav-01a808201/)
+Explore more about my work: [GitHub Profile](https://github.com/Premveer-Analytics) | [LinkedIn Profile](https://www.linkedin.com/in/premveer-yadav-01a808201/)
 
 ## 🛠 Skills & Technologies
 
