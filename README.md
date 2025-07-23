@@ -49,7 +49,7 @@ Explore more about my work: [GitHub Profile](https://github.com/Premveer-Analyti
 - **[Rise Of Quick Comemerce In India : A Case Study](https://github.com/Premveer-Analytics/QCommerce-India-Case-Study):** Analyzed quick commerce operations to improve delivery efficiency and optimize customer order patterns for business growth.
 - **[Used Cars Market Analysis](https://github.com/Premveer-Analytics/Used-Cars-Market-Analysis):**  Explored trends in used car pricing using SQL and Excel to uncover key market factors affecting vehicle value and customer preferences and built an interactive Power BI dashboard for dynamic visual insights.
 - **[Global Superstore Sales Analysis](https://github.com/Premveer-Analytics/Global-Superstore-Sales-Analysis-PowerBI):** Built interactive Power BI dashboards to visualize global sales performance, uncover profit-driving categories, and guide inventory decisions.
-- - **[Layoffs Data-Project ](https://github.com/Premveer-Analytics/Layoffs-Data-Project-SQL):**Conducted SQL-driven analysis of global layoffs to identify industry trends, company-wise impacts, and economic patterns across time.
+- **[Layoffs Data-Projecs](https://github.com/Premveer-Analytics/Layoffs-Data-Project-SQL):**Conducted SQL-driven analysis of global layoffs to identify industry trends, company-wise impacts, and economic patterns across time.
 - **[WattWise](https://github.com/WattWiseSolutions/WattWise):** A Java application providing precise estimates of energy consumption and monthly bills and used SQL to optimize data accessibility, reporting speed, and cost estimation.
 ## 💼 Work Experience
 - *Data Analyst* as a Freelancer (Jun 2025 – Present)
