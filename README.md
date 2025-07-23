@@ -46,7 +46,17 @@ Explore more about my work: [GitHub Profile](https://github.com/Premveer-Analyti
 | ![CSV](https://img.shields.io/badge/CSV-0052CC?style=for-the-badge&logo=csv&logoColor=white) | ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![XML](https://img.shields.io/badge/XML-0076A8?style=for-the-badge&logo=xml&logoColor=white) |
 
 ## 🚀 Notable Projects
-- **[Rise Of Quick Comemerce In India : A Case Study](https://github.com/Premveer-Analytics/QCommerce-India-Case-Study):** Analyzed quick commerce operations to improve delivery efficiency and optimize customer order patterns for business growth.
+- **[Rise Of Quick Commerce In India : A Case Study](https://github.com/Premveer-Analytics/QCommerce-India-Case-Study):** Analyzed quick commerce operations to improve delivery efficiency and optimize customer order patterns for business growth.
+
+- **[Used Cars Market Analysis](https://github.com/Premveer-Analytics/Used-Cars-Market-Analysis):** Explored pricing trends in the used car market using SQL and Excel, and built an interactive Power BI dashboard for dynamic visual insights.
+
+- **[Global Superstore Sales Analysis](https://github.com/Premveer-Analytics/Global-Superstore-Sales-Analysis-PowerBI):** Built interactive Power BI dashboards to visualize global sales performance, uncover profit-driving categories, and guide inventory decisions.
+
+- **[Layoffs Data Project](https://github.com/Premveer-Analytics/Layoffs-Data-Project-SQL):** Conducted SQL-driven analysis of global layoffs to identify industry trends, company-wise impacts, and economic patterns across time.
+
+- **[WattWise](https://github.com/WattWiseSolutions/WattWise):** Java-based application for estimating energy consumption and billing, with SQL integration to optimize reporting and data accessibility.
+
+- **[Rise Of Quick Commerce In India : A Case Study](https://github.com/Premveer-Analytics/QCommerce-India-Case-Study):** Analyzed quick commerce operations to improve delivery efficiency and optimize customer order patterns for business growth.
 - **[Used Cars Market Analysis](https://github.com/Premveer-Analytics/Used-Cars-Market-Analysis):**  Explored trends in used car pricing using SQL and Excel to uncover key market factors affecting vehicle value and customer preferences and built an interactive Power BI dashboard for dynamic visual insights.
 - **[Global Superstore Sales Analysis](https://github.com/Premveer-Analytics/Global-Superstore-Sales-Analysis-PowerBI):** Built interactive Power BI dashboards to visualize global sales performance, uncover profit-driving categories, and guide inventory decisions.
 - **[Layoffs Data-Projecs](https://github.com/Premveer-Analytics/Layoffs-Data-Project-SQL):**Conducted SQL-driven analysis of global layoffs to identify industry trends, company-wise impacts, and economic patterns across time.
